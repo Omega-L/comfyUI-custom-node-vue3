@@ -1,0 +1,14 @@
+{
+  "vue-basic": {
+    "title": "Vue Basic Example"
+  },
+  "settingsCategories": {
+    "VueBasic": "Vue Basic"
+  },
+  "settings": {
+    "Comfy_Frontend_VueBasic_ExampleSetting": {
+      "name": "Vue Basic Example Setting in main.json",
+      "tooltip": "An example setting for the Vue Basic extension in main.json"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+[project]
+name = "comfyUI_custom_node_vue"
+description = "ComfyUI Frontend Vue Basic is custom node that demonstrate how to use vue as frontend framework along with primevue and vue-i18n, cooperating with ComfyUI API. Needs ComfyUI Frontend 1.25.0 or later."
+version = "0.1.0"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Omega-L/comfyUI-custom-node-vue3.git"
+#  Used by Comfy Registry https://comfyregistry.org
+[tool.comfy]
+PublisherId = "Omega-L"
+DisplayName = "ComfyUI Custom Node Frontend Vue"
+Icon = ""
+includes = ['js']
